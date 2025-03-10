@@ -149,7 +149,6 @@ elseif ( $_REQUEST['bottomfunc'] === 'print' ) :
 		else
 			require_once 'modules/' . $modname;
 
-	}
 	// Not allowed, hacking attempt?
 	elseif ( User( 'USERNAME' ) )
 	{
