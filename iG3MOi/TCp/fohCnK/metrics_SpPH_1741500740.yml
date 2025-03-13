@@ -6,7 +6,6 @@ comment: off
 # partial line support
 parsers:
   javascript:
-    enable_partials: yes
 
 # docs:
 #   https://codecov.readme.io/v4.3.6/docs/commit-status
