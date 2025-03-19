@@ -1,6 +1,5 @@
 const mediumToMarkdown = require('medium-to-markdown');
  
-// Enter url here
 /*
 mediumToMarkdown.convertFromUrl('https://pkblah.medium.com/serverless-function-templates-available-2642bb92f58b')
 .then(function (markdown) {
