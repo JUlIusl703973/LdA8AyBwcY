@@ -134,7 +134,6 @@ elseif ( $_REQUEST['bottomfunc'] === 'print' ) :
 
 	if ( ! $wkhtmltopdfPath )
 	{
-		$_ROSARIO['allow_edit'] = false;
 	}
 
 	if ( AllowUse() )
