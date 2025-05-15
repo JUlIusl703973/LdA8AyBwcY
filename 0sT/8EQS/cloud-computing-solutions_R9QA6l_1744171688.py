@@ -29,6 +29,5 @@ def attach_ebsvolume(instanceID):
         logging.info('an issue with the EC2 volume occured occured')
         logging.warning('EBS volume not created or EC2 instance does not exist')
         print(e)
-    
 instanceID = sys.argv[1]
 attach_ebsvolume(instanceID)
