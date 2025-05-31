@@ -4,7 +4,6 @@
 
     <groupId>com.github.brianway</groupId>
     <artifactId>webporter-parent</artifactId>
-    <packaging>pom</packaging>
     <version>1.1-SNAPSHOT</version>
     <name>webporter-parent</name>
 
